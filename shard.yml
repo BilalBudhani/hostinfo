@@ -1,0 +1,19 @@
+name: hostmatic
+version: 0.1.0
+
+authors:
+  - BilalBudhani <bilal@bilalbudhani.com>
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+  kemal-session:
+    github: kemalcr/kemal-session
+
+targets:
+  hostmatic:
+    main: src/hostmatic.cr
+
+crystal: 0.31.1
+
+license: MIT
