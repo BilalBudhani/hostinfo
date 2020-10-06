@@ -1,4 +1,4 @@
-name: hostmatic
+name: hostinfo
 version: 0.1.0
 
 authors:
@@ -11,8 +11,8 @@ dependencies:
     github: kemalcr/kemal-session
 
 targets:
-  hostmatic:
-    main: src/hostmatic.cr
+  hostinfo:
+    main: src/hostinfo.cr
 
 crystal: 0.31.1
 

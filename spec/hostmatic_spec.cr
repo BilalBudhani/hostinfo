@@ -1,6 +1,6 @@
 require "./spec_helper"
 
-describe Hostmatic do
+describe Hostinfo do
   # TODO: Write tests
 
   it "works" do

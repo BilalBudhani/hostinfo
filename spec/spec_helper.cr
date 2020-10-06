@@ -1,2 +1,2 @@
 require "spec"
-require "../src/hostmatic"
+require "../src/hostinfo"
